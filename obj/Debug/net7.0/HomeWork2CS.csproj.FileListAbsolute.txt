@@ -1,0 +1,15 @@
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/bin/Debug/net7.0/HomeWork2CS
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/bin/Debug/net7.0/HomeWork2CS.deps.json
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/bin/Debug/net7.0/HomeWork2CS.runtimeconfig.json
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/bin/Debug/net7.0/HomeWork2CS.dll
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/bin/Debug/net7.0/HomeWork2CS.pdb
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/obj/Debug/net7.0/HomeWork2CS.csproj.AssemblyReference.cache
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/obj/Debug/net7.0/HomeWork2CS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/obj/Debug/net7.0/HomeWork2CS.AssemblyInfoInputs.cache
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/obj/Debug/net7.0/HomeWork2CS.AssemblyInfo.cs
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/obj/Debug/net7.0/HomeWork2CS.csproj.CoreCompileInputs.cache
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/obj/Debug/net7.0/HomeWork2CS.dll
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/obj/Debug/net7.0/refint/HomeWork2CS.dll
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/obj/Debug/net7.0/HomeWork2CS.pdb
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/obj/Debug/net7.0/HomeWork2CS.genruntimeconfig.cache
+/Users/evgeniia/Desktop/GB/HW_C#/HomeWork2CS/obj/Debug/net7.0/ref/HomeWork2CS.dll
